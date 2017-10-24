@@ -1,6 +1,6 @@
 {
     "name": "redux-persist-version",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "Migrate redux state between versions with redux-persist.",
     "main": "index.js",
     "scripts": {
