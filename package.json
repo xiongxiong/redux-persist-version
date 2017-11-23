@@ -45,6 +45,7 @@
         "redux-logger": "^3.0.6"
     },
     "dependencies": {
-        "redux-persist": "^4.10.2"
+        "immutable": "^3.8.2",
+        "redux-persist": "^4.10.x"
     }
 }
